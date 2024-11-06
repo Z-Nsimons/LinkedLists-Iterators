@@ -1,0 +1,1 @@
+This project, titled Project 4 - Linked Lists & Iterators, is focused on creating and manipulating a linked list in Java. It extends an existing class (CMSC256LinkedList) to add customized functionality for handling lists, with additional methods to access, manipulate, and retrieve specific parts of the list.
